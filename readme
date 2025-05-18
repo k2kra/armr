@@ -1,1 +1,9 @@
-.
+# ARMR
+
+IJCAI-25 paper: Adaptively Responsive Network for Medication Recommendation. This is an implementation of our model ARMR and the baselines in the paper.
+
+## 1. Process Data
+
+## 2. Train Model
+
+## 3. Test Model
